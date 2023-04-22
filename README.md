@@ -1,5 +1,5 @@
-py-pure-crypt
-=============
+py-purecrypt
+============
 
 A pure Python implementation of the crypt(3) function provided in the GNU C 
 library (glibc). This implementation supports the MD5, SHA256, and SHA512 
