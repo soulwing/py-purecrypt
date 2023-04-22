@@ -13,6 +13,13 @@ This implementation is not fast. If you're looking for speed, I suggest you
 consider alternatives such as [bcrypt](https://pypi.org/project/bcrypt/).
 
 
+Installation
+------------
+
+Install `py-purecrypt` from [PyPI](https://pypi.org/project/py-purecrypt)
+using `pip` or your preferred Python package manager.
+
+
 Usage
 -----
 
