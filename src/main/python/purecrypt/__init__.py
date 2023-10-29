@@ -1,5 +1,5 @@
 from .method import Method
-from .crypt import Crypt
+from .crypt_abc import Crypt
 
 METHOD_SHA512 = Method.SHA512
 METHOD_SHA256 = Method.SHA256

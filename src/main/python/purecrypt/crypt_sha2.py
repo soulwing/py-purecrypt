@@ -3,7 +3,7 @@ from abc import abstractmethod
 from typing import ByteString, Optional
 
 from .b64 import SYMBOLS as B64_SYMBOLS
-from .crypt import Crypt
+from .crypt_abc import Crypt
 from .salt import Salt
 
 

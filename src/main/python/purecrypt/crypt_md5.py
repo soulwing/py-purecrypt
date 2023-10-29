@@ -3,7 +3,7 @@ from typing import ByteString
 
 from .b64 import encode as b64_encode, SYMBOLS as BASE64_SYMBOLS
 from .salt import Salt
-from .crypt import Crypt
+from .crypt_abc import Crypt
 
 
 class CryptMD5(Crypt):

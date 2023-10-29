@@ -1,5 +1,5 @@
 
-from purecrypt.crypt import Crypt, Method
+from purecrypt.crypt_abc import Crypt, Method
 from purecrypt.crypt_md5 import CryptMD5
 from purecrypt.crypt_sha2 import CryptSHA2
 from purecrypt.crypt_sha256 import CryptSHA256
